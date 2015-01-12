@@ -1,0 +1,30 @@
+#contenedor{
+width: 900px;
+background: white;
+box-shadow: 2px 2px 5px #999;
+}
+#cabecera{
+width: 900px;
+background: #0101DF;
+height: 35px; 
+text-align: left;
+font-size: 25px;
+color:white;
+}
+
+#editor{
+width: 900px;
+background: white;    
+height: 400px;
+overflow: scroll;
+}
+
+#menu{
+width: 100%;
+height: 30px;
+background: #BDBDBD;
+color:black;
+text-align: left;
+text-decoration: none;
+}
+
